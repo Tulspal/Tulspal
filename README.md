@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Tulspal
-- 👀 I’m interested in Data Science
+- 👋 Hi, I’m @Tulspal Kaur
 - 🌱 I’m currently learning Data Analytics Skills
 - 📫 How to reach me tulspal@gmail.com
 

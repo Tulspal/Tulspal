@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tulspal Kaur
 - 🌱 I’m currently learning Data Analytics Skills
-- 📫 How to reach me tulspal@gmail.com
+- 📫 reach me on tulspal@gmail.com
 
 <!---
 Tulspal/Tulspal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
